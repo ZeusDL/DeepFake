@@ -63,7 +63,7 @@ DeepFake Detective is an advanced AI-powered platform designed to combat digital
 
 1. **📥 Clone Repository**
    ```bash
-   git clone https://github.com/tejaspavanb/DeepFake
+   git clone https://github.com/ZeusDL/DeepFake
    cd deepfake-detective
    ```
 
